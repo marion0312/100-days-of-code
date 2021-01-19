@@ -9,10 +9,19 @@
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/responsively-style-radio-buttons)
 
 
-### Day 0: January 18, 2021 Monday
+### Day 1: January 18, 2021 Monday
 
 **Today's Progress**: Finished bootstrap and started with jQuery.
 
 **Thoughts:** I tried again for 30 mins right before I go to bed, you know, hopefully. It's fun and hoping to get a momentum and add five or 10 mins per day of coding.
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/jquery/target-a-specific-child-of-an-element-using-jquery)
+
+
+### Day 2: January 19, 2021 Monday
+
+**Today's Progress**: Finished jQuery and started in Sass.
+
+**Thoughts:** While jQuery and Bootstrap is easy, Sass on the other hand feels like a whole different alley. It's like JS and CSS combined. Relearning this stuff again is fun. Breaks the ice in me.
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/sass/split-your-styles-into-smaller-chunks-with-partials)

@@ -18,10 +18,19 @@
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/jquery/target-a-specific-child-of-an-element-using-jquery)
 
 
-### Day 2: January 19, 2021 Monday
+### Day 2: January 19, 2021 Tuesday
 
 **Today's Progress**: Finished jQuery and started in Sass.
 
 **Thoughts:** While jQuery and Bootstrap is easy, Sass on the other hand feels like a whole different alley. It's like JS and CSS combined. Relearning this stuff again is fun. Breaks the ice in me.
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/sass/split-your-styles-into-smaller-chunks-with-partials)
+
+
+### Day 3: January 20, 2021 Wednesday
+
+**Today's Progress**: Finished Sass and blew my mind with React.
+
+**Thoughts:** Learning something new is always hard. Maybe I am always full of myself before that I never welcome these new technologies lying around waiting to be learned. They are so handy!
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/react/compose-react-components)

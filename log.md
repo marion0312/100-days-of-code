@@ -34,3 +34,11 @@
 **Thoughts:** Learning something new is always hard. Maybe I am always full of myself before that I never welcome these new technologies lying around waiting to be learned. They are so handy!
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/react/compose-react-components)
+
+### Day 4: January 21, 2021 Thursday
+
+**Today's Progress**: Slowly cracking my brain with react.
+
+**Thoughts:** React is a bit difficult to grasp. I really wish I can change this schedule to morning.
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-an-array-as-props)

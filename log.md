@@ -43,10 +43,18 @@
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-an-array-as-props)
 
-### Day 5: January 22, 2021 Saturday
+### Day 5: January 23, 2021 Saturday
 
 **Today's Progress**: Got sidetracked in relearning Git and Github.
 
 **Thoughts:** Things changed since last time I played with Git. of all times.
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-an-array-as-props)
+
+### Day 6: January 24, 2021 Sunday
+
+**Today's Progress**: Started in ES6 Basics
+
+**Thoughts:** I should have probably started in understanding the bascis. Maybe that's why I am confused in learning ReactJS.
+
+**Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)

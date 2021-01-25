@@ -58,3 +58,11 @@
 **Thoughts:** I should have probably started in understanding the bascis. Maybe that's why I am confused in learning ReactJS.
 
 **Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)
+
+### Day 7: January 25, 2021 Monday
+
+**Today's Progress**: Learning templated, objects, literals.
+
+**Thoughts:** ES6 helps coders shorten their codes. Short, simple, concise.
+
+**Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)

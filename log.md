@@ -66,3 +66,11 @@
 **Thoughts:** ES6 helps coders shorten their codes. Short, simple, concise.
 
 **Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)
+
+### Day 8: January 26, 2021 Tuesday
+
+**Today's Progress**: Saved by the bell. Literally. Added new lessons from freeCodeCamp and stumbled in Export and Import functions as I don't see the html file. It seems there are additional settings for that to work.
+
+**Thoughts:** There are so many things that should have saved time for me only if I learned this thing before. I can see why it is required in learning frameworks.
+
+**Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)

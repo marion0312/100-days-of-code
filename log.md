@@ -74,3 +74,12 @@
 **Thoughts:** There are so many things that should have saved time for me only if I learned this thing before. I can see why it is required in learning frameworks.
 
 **Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)
+
+
+### Day 9: January 27, 2021 Wednesday
+
+**Today's Progress**: Learning Javascript classes, inheritance, and constructors.
+
+**Thoughts:** JavaScript classes are ES6 features that enters JS to OOP.
+
+**Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)

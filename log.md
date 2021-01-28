@@ -83,3 +83,11 @@
 **Thoughts:** JavaScript classes are ES6 features that enters JS to OOP.
 
 **Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)
+
+### Day 9: January 28, 2021 Thursday
+
+**Today's Progress**: Finished learning classes (basics) and started in Async and Await. Almost done!
+
+**Thoughts:** This might be easy to learn but this are all concepts. All basics. The real challenge awaits in the frameworks.
+
+**Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)

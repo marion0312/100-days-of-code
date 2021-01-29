@@ -84,10 +84,19 @@
 
 **Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)
 
-### Day 9: January 28, 2021 Thursday
+### Day 10: January 28, 2021 Thursday
 
 **Today's Progress**: Finished learning classes (basics) and started in Async and Await. Almost done!
 
 **Thoughts:** This might be easy to learn but this are all concepts. All basics. The real challenge awaits in the frameworks.
+
+**Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)
+
+
+### Day 11: January 29, 2021 Friday
+
+**Today's Progress**: Finished ES6 course today! Yehey!
+
+**Thoughts:** I can actually finish a course! it took 10 days. but whatever! I am done with step 1!
 
 **Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)

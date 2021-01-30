@@ -100,3 +100,11 @@
 **Thoughts:** I can actually finish a course! it took 10 days. but whatever! I am done with step 1!
 
 **Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of freeCodeCamp](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org)
+
+### Day 12: January 30, 2021 Saturday
+
+**Today's Progress**: Started Crash Course for Vue JS, learned anatomy of component, how to setup vue, create vue projects, and most of all: VUE CLI!
+
+**Thoughts:** A tutorial from 2019. It will be challenging again, but I am definitely enjoying this.
+
+**Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

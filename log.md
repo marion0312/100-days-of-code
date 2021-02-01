@@ -108,3 +108,19 @@
 **Thoughts:** A tutorial from 2019. It will be challenging again, but I am definitely enjoying this.
 
 **Link to work:** [GitHub](https://github.com/marion0312/es6tutorial), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+### Day 12: January 31, 2021 Sunday
+
+**Today's Progress**: Learned how to display from App.vue to components.
+
+**Thoughts:** Crash course seems a bad idea. But I am half way in that I don't know if I should stop. 
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+### Day 13: February 1, 2021 Monday
+
+**Today's Progress**: Learned how to use vue directives such as v-bind, v-class, v-on for events. 37:40
+
+**Thoughts:** So many questions like what is a directive or traverse? But it seems like I have encountered these words before. Hmm.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

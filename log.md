@@ -124,3 +124,11 @@
 **Thoughts:** So many questions like what is a directive or traverse? But it seems like I have encountered these words before. Hmm.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+### Day 14: February 3, 2021 Wednesday
+
+**Today's Progress**: Learned how to send data from child to parent
+
+**Thoughts:** I am confused. Maybe on the second run I can understand it better.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

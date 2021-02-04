@@ -132,3 +132,11 @@
 **Thoughts:** I am confused. Maybe on the second run I can understand it better.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+### Day 15: February 4, 2021 Thursday
+
+**Today's Progress**: Learned how to create a form as Add Todo
+
+**Thoughts:** Frameworks really do have similiarities. Learning one is almost like learning the others.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

@@ -140,3 +140,11 @@
 **Thoughts:** Frameworks really do have similiarities. Learning one is almost like learning the others.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+### Day 16: February 5, 2021 Friday
+
+**Today's Progress**: Added fetch data from JSON Placeholder, add, and delete
+
+**Thoughts:** I am actually almost at the end of this crash course!
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

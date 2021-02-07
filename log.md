@@ -148,3 +148,12 @@
 **Thoughts:** I am actually almost at the end of this crash course!
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+
+### Day 17: February 7, 2021 Sunday
+
+**Today's Progress**: Reviewed ES6 with a friend.
+
+**Thoughts:** Reviewing and passing this stuff is fun. It helps us both learn.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

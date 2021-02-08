@@ -157,3 +157,11 @@
 **Thoughts:** Reviewing and passing this stuff is fun. It helps us both learn.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+### Day 18: February 8, 2021 Monday
+
+**Today's Progress**: Practicing the crash course project 1.
+
+**Thoughts:** I am grasping it! Oh my!
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

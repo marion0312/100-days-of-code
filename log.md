@@ -165,3 +165,11 @@
 **Thoughts:** I am grasping it! Oh my!
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+### Day 19: February 9, 2021 Tuesday
+
+**Today's Progress**: Done with the routing. Started another lap to practice.
+
+**Thoughts:** Stumbled on other parts like incorrect naming. I am almost done but I guess try again tomorrow.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

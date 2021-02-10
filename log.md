@@ -173,3 +173,11 @@
 **Thoughts:** Stumbled on other parts like incorrect naming. I am almost done but I guess try again tomorrow.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+### Day 20: February 10, 2021 Wednesday
+
+**Today's Progress**: Picked up last day's unfinished round.
+
+**Thoughts:** I spent 30 mins going round and about. I need more practice.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

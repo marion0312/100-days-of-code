@@ -181,3 +181,12 @@
 **Thoughts:** I spent 30 mins going round and about. I need more practice.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+
+### Day 21: February 11, 2021 Thursday
+
+**Today's Progress**: Finished round 2 with 5 mins left!
+
+**Thoughts:** I need to understand the code more. Like what is props?
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

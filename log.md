@@ -190,3 +190,20 @@
 **Thoughts:** I need to understand the code more. Like what is props?
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+
+### Day 22: February 13, 2021 Saturday
+
+**Today's Progress**: Reiterate to collague.
+
+**Thoughts:** I can do this! It's going smooth.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+### Day 23: February 15, 2021 Monday
+
+**Today's Progress**: Round 6: done with minimal help. 11 mins left.
+
+**Thoughts:** Start to learn what is VueX?
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)

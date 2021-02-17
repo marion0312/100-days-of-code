@@ -207,3 +207,12 @@
 **Thoughts:** Start to learn what is VueX?
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course), [YouTube of Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U&t=188s&ab_channel=TraversyMedia)
+
+
+### Day 24: February 16, 2021 Tuesday
+
+**Today's Progress**: Started to learn VueX using VueX Explained.
+
+**Thoughts:** So much to learn within a framework. Or maybe it's just because I am starting to learn frameworks?
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course)

@@ -216,3 +216,12 @@
 **Thoughts:** So much to learn within a framework. Or maybe it's just because I am starting to learn frameworks?
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course)
+
+
+### Day 25: February 17, 2021 Wednesday
+
+**Today's Progress**: Started the crash course for Vuex.
+
+**Thoughts:** I still haven't worked in terminologies!
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

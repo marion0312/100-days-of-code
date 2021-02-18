@@ -225,3 +225,11 @@
 **Thoughts:** I still haven't worked in terminologies!
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+### Day 26: February 18, 2021 Thursday
+
+**Today's Progress**: Starting to grasp the concept of Vuex.
+
+**Thoughts:** Grapsing it but I feel like I am in a whole new dimension. I need to start again tomorrow with notes.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

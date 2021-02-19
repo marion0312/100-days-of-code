@@ -233,3 +233,11 @@
 **Thoughts:** Grapsing it but I feel like I am in a whole new dimension. I need to start again tomorrow with notes.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+### Day 27: February 19, 2021 Friday
+
+**Today's Progress**: Restarted the project and determined where am I getting error. Create an app, Create components, create a store, modules, state, use API, mutations, forms, custom css, delete items, 
+
+**Thoughts:** Taking notes really does help a lot.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

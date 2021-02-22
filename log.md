@@ -257,3 +257,11 @@
 **Thoughts:** Writing out what to do is important before knowing how to do.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+### Day 28: February 22, 2021 Monday
+
+**Today's Progress**: I am stuck! There is no $event.target.options
+
+**Thoughts:** I need more debugging
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

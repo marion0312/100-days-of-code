@@ -241,3 +241,11 @@
 **Thoughts:** Taking notes really does help a lot.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+### Day 27: February 20, 2021 Saturday
+
+**Today's Progress**: Tried to play with JS Codewars just to take a break.
+
+**Thoughts:** Data structures and algorithms is fun!
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

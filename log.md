@@ -249,3 +249,11 @@
 **Thoughts:** Data structures and algorithms is fun!
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+### Day 27: February 21, 2021 Sunday
+
+**Today's Progress**: Another round of Vue with colleague.
+
+**Thoughts:** Writing out what to do is important before knowing how to do.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

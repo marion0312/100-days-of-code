@@ -265,3 +265,11 @@
 **Thoughts:** I need more debugging
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+### Day 29: February 23, 2021 Wednesday
+
+**Today's Progress**: Finished VueX course!
+
+**Thoughts:** Turns out I just needed to commit the mutation for the code to work. Need to practice again tomorrow.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

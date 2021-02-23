@@ -256,7 +256,7 @@
 
 **Thoughts:** Writing out what to do is important before knowing how to do.
 
-**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+**Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
 
 ### Day 28: February 22, 2021 Monday
 
@@ -264,7 +264,7 @@
 
 **Thoughts:** I need more debugging
 
-**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+**Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
 
 ### Day 29: February 23, 2021 Wednesday
 
@@ -272,4 +272,4 @@
 
 **Thoughts:** Turns out I just needed to commit the mutation for the code to work. Need to practice again tomorrow.
 
-**Link to work:** [GitHub](https://github.com/marion0312/vue-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+**Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

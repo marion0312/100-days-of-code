@@ -266,10 +266,19 @@
 
 **Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
 
-### Day 29: February 23, 2021 Wednesday
+### Day 29: February 23, 2021 Tuesday
 
 **Today's Progress**: Finished VueX course!
 
 **Thoughts:** Turns out I just needed to commit the mutation for the code to work. Need to practice again tomorrow.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+
+### Day 30: February 25, 2021 Thursday
+
+**Today's Progress**: Completed round 1 of VueX with a lot of help
+
+**Thoughts:** Rushing things makes errors.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

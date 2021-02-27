@@ -282,3 +282,22 @@
 **Thoughts:** Rushing things makes errors.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+
+### Day 31: February 26, 2021 Friday
+
+**Today's Progress**: Tried round 2 for 30 mins because I am tired :(
+
+**Thoughts:** Tired but hoping the little seeds of pushing through is worth it.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+
+
+### Day 32: February 27, 2021 Saturday
+
+**Today's Progress**: Finished round 2!
+
+**Thoughts:** Tired but hoping the little seeds of pushing through is worth it.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

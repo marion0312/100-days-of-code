@@ -301,3 +301,11 @@
 **Thoughts:** Tired but hoping the little seeds of pushing through is worth it.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+### Day 33: March 1, 2021 Monday
+
+**Today's Progress**: Finished round 3 with few errors and 8 minutes left.
+
+**Thoughts:** Tired but hoping the little seeds of pushing through is worth it.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)

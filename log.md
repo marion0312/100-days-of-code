@@ -309,3 +309,12 @@
 **Thoughts:** Tired but hoping the little seeds of pushing through is worth it.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vuex-crash-course) [YouTube](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)
+
+
+### Day 34: March 2, 2021 Tuesday
+
+**Today's Progress**: Started Vue.JS from freeCodeCamp
+
+**Thoughts:** Learned new Vue directives such us more uses of v-bind, v-text, v-class with if else, filters.
+
+**Link to work:** [YouTube](https://www.youtube.com/watch?v=4deVCNJq3qc&t=9s&ab_channel=freeCodeCamp.org)

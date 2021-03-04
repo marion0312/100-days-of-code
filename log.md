@@ -318,3 +318,9 @@
 **Thoughts:** Learned new Vue directives such us more uses of v-bind, v-text, v-class with if else, filters.
 
 **Link to work:** [YouTube](https://www.youtube.com/watch?v=4deVCNJq3qc&t=9s&ab_channel=freeCodeCamp.org)
+
+### Day 34: March 4, 2021 Tuesday
+
+**Today's Progress**: Tried to create the first vue exercise again.
+
+**Thoughts:** I tried using other tutorials but I think they are only doing the same thing in the crash course?

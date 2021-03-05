@@ -319,8 +319,14 @@
 
 **Link to work:** [YouTube](https://www.youtube.com/watch?v=4deVCNJq3qc&t=9s&ab_channel=freeCodeCamp.org)
 
-### Day 34: March 4, 2021 Tuesday
+### Day 34: March 4, 2021 Thursday
 
 **Today's Progress**: Tried to create the first vue exercise again.
 
 **Thoughts:** I tried using other tutorials but I think they are only doing the same thing in the crash course?
+
+### Day 35: March 5, 2021 Friday
+
+**Today's Progress**: Learned how to create cards and animation.
+
+**Thoughts:** It's fun learning CSS and stuff. I shall do it again!

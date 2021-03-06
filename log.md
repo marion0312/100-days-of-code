@@ -330,3 +330,9 @@
 **Today's Progress**: Learned how to create cards and animation.
 
 **Thoughts:** It's fun learning CSS and stuff. I shall do it again!
+
+### Day 36: March 6, 2021 Saturday
+
+**Today's Progress**: Finished developing UAC for side project.
+
+**Thoughts:** PHP is confusing. I miss it.

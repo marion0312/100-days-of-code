@@ -336,3 +336,18 @@
 **Today's Progress**: Finished developing UAC for side project.
 
 **Thoughts:** PHP is confusing. I miss it.
+
+### Day 37: March 7, 2021 Sunday
+
+**Today's Progress**: Tutorial with colleague.
+
+**Thoughts:** Making mistakes is neccessary.
+
+
+### Day 38: March 8, 2021 Monday
+
+**Today's Progress**: Finally got the energy to start React js
+
+**Thoughts:** There really is similarities between these frameworks.
+
+**Link to work:** [GitHub](https://github.com/marion0312/react-crash-course.git) [YouTube](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)

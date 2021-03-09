@@ -351,3 +351,14 @@
 **Thoughts:** There really is similarities between these frameworks.
 
 **Link to work:** [GitHub](https://github.com/marion0312/react-crash-course.git) [YouTube](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
+
+### Day 39: March 9, 2021 Monday
+
+**Today's Progress**: Header, data binding, props, event listeners, state hooks, prop drilling, conditional styling
+
+**Thoughts:** Went too far. I know I won't remember stuff right now but it's so cool.
+
+**Link to work:** [GitHub](https://github.com/marion0312/react-crash-course.git) [YouTube](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
+
+
+

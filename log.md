@@ -352,7 +352,7 @@
 
 **Link to work:** [GitHub](https://github.com/marion0312/react-crash-course.git) [YouTube](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
 
-### Day 39: March 9, 2021 Monday
+### Day 39: March 9, 2021 Tuesday
 
 **Today's Progress**: Header, data binding, props, event listeners, state hooks, prop drilling, conditional styling
 
@@ -361,4 +361,8 @@
 **Link to work:** [GitHub](https://github.com/marion0312/react-crash-course.git) [YouTube](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
 
 
+### Day 40: March 10, 2021 Wednesday
 
+**Today's Progress**: Tried to practice vue again today. Did it for 40 mins with few checking of previous builds.
+
+**Thoughts:** Tomorrow, I am going to build my own project. Time to get my hands dirty.

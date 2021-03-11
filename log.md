@@ -366,3 +366,12 @@
 **Today's Progress**: Tried to practice vue again today. Did it for 40 mins with few checking of previous builds.
 
 **Thoughts:** Tomorrow, I am going to build my own project. Time to get my hands dirty.
+
+
+### Day 41: March 11, 2021 Thursday
+
+**Today's Progress**: I started a countdown timer hopefully with a name and start and stop.
+
+**Thoughts:** I picked it up because I thought it was easy. It's far from easy. 
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-countdown)

@@ -375,3 +375,12 @@
 **Thoughts:** I picked it up because I thought it was easy. It's far from easy. 
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-countdown)
+
+
+### Day 42: March 13, 2021 Saturday
+
+**Today's Progress**: Resolved the problem with stop timer. Now adding a form to set the timer.
+
+**Thoughts:** There are ways to solve a problem. I like the long way because there is no rush and I want to pick up what I can.
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-countdown)

@@ -384,3 +384,12 @@
 **Thoughts:** There are ways to solve a problem. I like the long way because there is no rush and I want to pick up what I can.
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-countdown)
+
+
+### Day 43: March 14, 2021 Sunday
+
+**Today's Progress**: Finished the countdown timer with vue.js. 
+
+**Thoughts:** Final touches are easy. But actually I have problem with logic. I wonder how to improve that. Maybe puzzles?
+
+**Link to work:** [GitHub](https://github.com/marion0312/vue-countdown)

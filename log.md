@@ -393,3 +393,11 @@
 **Thoughts:** Final touches are easy. But actually I have problem with logic. I wonder how to improve that. Maybe puzzles?
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-countdown)
+
+### Day 43: March 14, 2021 Sunday
+
+**Today's Progress**: Finished  the optional part of React.js crash course tutorial in preparation for interview tomorrow.
+
+**Thoughts:** Godspeed.
+
+**Link to work:** [GitHub](https://github.com/marion0312/react-todo)

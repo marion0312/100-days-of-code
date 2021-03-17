@@ -394,9 +394,16 @@
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-countdown)
 
-### Day 43: March 14, 2021 Sunday
+### Day 44: March 15, 2021 Monday
 
-**Today's Progress**: Finished  the optional part of React.js crash course tutorial in preparation for interview tomorrow.
+**Today's Progress**: Studied angular for the interview. 
+
+**Thoughts:** I think I may have to study TypeScript before Angular.
+
+
+### Day 44: March 17, 2021 Wednesday
+
+**Today's Progress**: Studied react of what I know for another interview tomorrow. I tried to do it again.
 
 **Thoughts:** Godspeed.
 

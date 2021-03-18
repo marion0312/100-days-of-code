@@ -394,17 +394,25 @@
 
 **Link to work:** [GitHub](https://github.com/marion0312/vue-countdown)
 
-### Day 44: March 15, 2021 Monday
+### Day 45: March 15, 2021 Monday
 
 **Today's Progress**: Studied angular for the interview. 
 
 **Thoughts:** I think I may have to study TypeScript before Angular.
 
 
-### Day 44: March 17, 2021 Wednesday
+### Day 46: March 17, 2021 Wednesday
 
 **Today's Progress**: Studied react of what I know for another interview tomorrow. I tried to do it again.
 
 **Thoughts:** Godspeed.
 
 **Link to work:** [GitHub](https://github.com/marion0312/react-todo)
+
+### Day 47: March 18, 2021 Thursday
+
+**Today's Progress**: Trying to learn CSS grid. Got sidetracked to how Vuetify works.
+
+**Thoughts:** CSS3 has evolved so much after Bootstrap. Grid and flex is interesting. I see why he insists to learn this.  
+
+**Link to work:** [GitHub](https://github.com/marion0312/vuetify-test)

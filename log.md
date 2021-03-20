@@ -416,3 +416,20 @@
 **Thoughts:** CSS3 has evolved so much after Bootstrap. Grid and flex is interesting. I see why he insists to learn this.  
 
 **Link to work:** [GitHub](https://github.com/marion0312/vuetify-test)
+
+### Day 47: March 19, 2021 Friday
+
+**Today's Progress**: Tried the Vuetify with Calendar from Traversy Media. I think it's not a good place ot start for me.
+
+**Thoughts:** I am going lazier by the minute. 
+
+**Link to work:** [GitHub](https://github.com/marion0312/vuetify-test)
+
+
+### Day 47: March 20, 2021 Saturday
+
+**Today's Progress**: Okay I found 1. A playlist of Vuetify. 
+
+**Thoughts:** I am going lazier by the minute. 
+
+**Link to work:** [GitHub](https://www.youtube.com/watch?v=FbEW3xAmhKs&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5&index=2&ab_channel=TheNetNinja)

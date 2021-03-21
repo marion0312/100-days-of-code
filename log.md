@@ -417,7 +417,7 @@
 
 **Link to work:** [GitHub](https://github.com/marion0312/vuetify-test)
 
-### Day 47: March 19, 2021 Friday
+### Day 48: March 19, 2021 Friday
 
 **Today's Progress**: Tried the Vuetify with Calendar from Traversy Media. I think it's not a good place ot start for me.
 
@@ -426,10 +426,19 @@
 **Link to work:** [GitHub](https://github.com/marion0312/vuetify-test)
 
 
-### Day 47: March 20, 2021 Saturday
+### Day 49: March 20, 2021 Saturday
 
 **Today's Progress**: Okay I found 1. A playlist of Vuetify. 
 
 **Thoughts:** I am going lazier by the minute. 
+
+**Link to work:** [GitHub](https://www.youtube.com/watch?v=FbEW3xAmhKs&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5&index=2&ab_channel=TheNetNinja)
+
+
+### Day 50: March 21, 2021 Sunday
+
+**Today's Progress**: Setting up vuetify, basic declaration of classes, channging text-color, lighten background, background-color, darken text color, changing font size, 
+
+**Thoughts:** Since this is styling, it needs project integration.
 
 **Link to work:** [GitHub](https://www.youtube.com/watch?v=FbEW3xAmhKs&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5&index=2&ab_channel=TheNetNinja)

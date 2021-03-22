@@ -441,4 +441,17 @@
 
 **Thoughts:** Since this is styling, it needs project integration.
 
-**Link to work:** [GitHub](https://www.youtube.com/watch?v=FbEW3xAmhKs&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5&index=2&ab_channel=TheNetNinja)
+**Link to work:** [Youtube](https://www.youtube.com/watch?v=FbEW3xAmhKs&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5&index=2&ab_channel=TheNetNinja)
+
+### Day 51: March 22, 2021 Monday
+
+**Today's Progress**: 
+Buttons & Icons
+Using class and color to change style of buttons, depressed prop to remove background color, icons, small prop to change size, left prop for spacing, large prop.
+
+Visibility & Breakpoints
+Using d or hidden classes to specify which screen sizes to display an element.
+
+**Thoughts:** Since this is styling, it needs project integration.
+
+**Link to work:** [Youtube](https://www.youtube.com/watch?v=FbEW3xAmhKs&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5&index=2&ab_channel=TheNetNinja)

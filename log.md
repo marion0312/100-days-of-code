@@ -461,3 +461,12 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Today's Progress**: Crazy week! Took programming exam and used Vue.js as my framework. I didn't submit it but it's still crazy! haha. Got a job as Front End Developer Specialist.
 
 **Thoughts:** I finally got in!
+
+
+### Day 54: March 6, 2021 Friday
+
+**Today's Progress**: I set up my machine and learned how to create an ASP.NET project.
+
+**Thoughts:** I finally got in!
+
+**Link to work:** [Youtube](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org)

@@ -455,3 +455,9 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** Since this is styling, it needs project integration.
 
 **Link to work:** [Youtube](https://www.youtube.com/watch?v=FbEW3xAmhKs&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5&index=2&ab_channel=TheNetNinja)
+
+### Day 52-53: March 23-24, 2021 Tuesday - Wednesday
+
+**Today's Progress**: Crazy week! Took programming exam and used Vue.js as my framework. I didn't submit it but it's still crazy! haha. Got a job as Front End Developer Specialist.
+
+**Thoughts:** I finally got in!

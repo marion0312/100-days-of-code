@@ -463,10 +463,18 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** I finally got in!
 
 
-### Day 54: March 6, 2021 Friday
+### Day 54: March 26, 2021 Friday
 
 **Today's Progress**: I set up my machine and learned how to create an ASP.NET project.
 
 **Thoughts:** I finally got in!
+
+**Link to work:** [Youtube](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org)
+
+### Day 54: March 27, 2021 Saturday
+
+**Today's Progress**: I feel sick but I was able to progress for a few minutes. Turns out, I can't see authentication because I am using VS 2017. 
+
+**Thoughts:** I tried to do a kata now. I hope that means a few progress.
 
 **Link to work:** [Youtube](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org)

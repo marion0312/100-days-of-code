@@ -478,3 +478,11 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** I tried to do a kata now. I hope that means a few progress.
 
 **Link to work:** [Youtube](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org)
+
+### Day 55: March 28, 2021 Sunday
+
+**Today's Progress**: Still feeling sick. Learned how to create a prop, class, creating new controller, creating migration using Package Manager
+
+**Thoughts:** I really cant. Maybe it's the quarantine or something.
+
+**Link to work:** [Youtube](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org)

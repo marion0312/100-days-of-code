@@ -486,3 +486,12 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** I really cant. Maybe it's the quarantine or something.
 
 **Link to work:** [Youtube](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org)
+
+### Day 56: March 29, 2021 Monday
+
+**Today's Progress**: A bit better. DAO vs ORM, running update-database after creating our migration file, adding nav-bar items, creating custom page inside controller, creating a view based on that controller function, passing a value to the controller, returning a string from controller
+
+**Thoughts:** Things are starting to get fun.
+
+**Link to work:** [Youtube](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org)
+

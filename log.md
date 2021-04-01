@@ -495,3 +495,26 @@ Using d or hidden classes to specify which screen sizes to display an element.
 
 **Link to work:** [Youtube](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org)
 
+### Day 57: March 30, 2021 Tuesday
+
+**Today's Progress**: Completed this tutorial.
+
+**Thoughts:** I need to learn more.
+
+**Link to work:** [Youtube](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org)
+
+
+### Day 58: March 31, 2021 Wednesday
+
+**Today's Progress**: Trying to learn about CSS grid again.
+
+**Thoughts:** Halfway I realized that it was an overview and I need to see it more in action.
+
+
+### Day 59: April 1, 2021 Thursday
+
+**Today's Progress**: Finished a 1 hour course for CSS Grid responsive.
+
+**Thoughts:** I need to really learn this stuff and how to do it in sass.
+
+**Link to work:** [GitHub](https://github.com/marion0312/gridbiz) [YouTube](https://www.youtube.com/watch?v=moBhzSC455o&ab_channel=TraversyMedia)

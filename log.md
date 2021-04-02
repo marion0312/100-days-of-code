@@ -518,3 +518,12 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** I need to really learn this stuff and how to do it in sass.
 
 **Link to work:** [GitHub](https://github.com/marion0312/gridbiz) [YouTube](https://www.youtube.com/watch?v=moBhzSC455o&ab_channel=TraversyMedia)
+
+
+### Day 60: April 2, 2021 Friday
+
+**Today's Progress**: Tried a 30 mins lap. Completed the HTML with errors. I accidentally placed 1 section insde 1 section. At least I saw the effect.
+
+**Thoughts:** Grasping grids but I need more practice.
+
+**Link to work:** [GitHub](https://github.com/marion0312/gridbiz) [YouTube](https://www.youtube.com/watch?v=moBhzSC455o&ab_channel=TraversyMedia)

@@ -527,3 +527,12 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** Grasping grids but I need more practice.
 
 **Link to work:** [GitHub](https://github.com/marion0312/gridbiz) [YouTube](https://www.youtube.com/watch?v=moBhzSC455o&ab_channel=TraversyMedia)
+
+
+### Day 61: April 3, 2021 Saturday
+
+**Today's Progress**: Completed another set of grid css lap. Then revisited vuex.
+
+**Thoughts:** I forgot how to do vuex now...
+
+**Link to work:** [GitHub](https://github.com/marion0312/gridbiz) [YouTube](https://www.youtube.com/watch?v=moBhzSC455o&ab_channel=TraversyMedia)

@@ -536,3 +536,11 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** I forgot how to do vuex now...
 
 **Link to work:** [GitHub](https://github.com/marion0312/gridbiz) [YouTube](https://www.youtube.com/watch?v=moBhzSC455o&ab_channel=TraversyMedia)
+
+### Day 62: April 4, 2021 Sunday
+
+**Today's Progress**: Started a freeCodeCamp of ASP.NET Core. Learned how to start a Razor app, file structure, Tag Helpers, HTML Helpers vs Tag Helpers, Routing structure.
+
+**Thoughts:** It's fun learning from the scratch!
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=C5cnZ-gZy2I)

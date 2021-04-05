@@ -544,3 +544,12 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** It's fun learning from the scratch!
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=C5cnZ-gZy2I)
+
+
+### Day 62: April 5, 2021 Monday
+
+**Today's Progress**: Aspnet Core Pipelines, usage of Nuget Package Manager, adding RuntimeCompilation dependencies, creating model, adding props, adding libraries for database connection.
+
+**Thoughts:** I feel sick again...
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=C5cnZ-gZy2I)

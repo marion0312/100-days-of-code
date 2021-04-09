@@ -553,3 +553,11 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** I feel sick again...
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=C5cnZ-gZy2I)
+
+### Day 63: April 9, 2021 Friday
+
+**Today's Progress**: (I cannot remember the 6 and 7) but I skipped to MVC part since I cannot debug the error and it seems like it has something to do with the aspnetcore version. Anyway I jumped through since I need the MVC anyway. Maybe I will take a different Razor tutorial. Same steps, create project, setup database access, models, migration, packages, setup startup.cs, add links in Layout.cs
+
+**Thoughts:** They have the same steps. What's the difference, advantage and disadvantage? 
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=C5cnZ-gZy2I)

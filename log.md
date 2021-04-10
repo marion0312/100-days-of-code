@@ -561,3 +561,11 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** They have the same steps. What's the difference, advantage and disadvantage? 
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=C5cnZ-gZy2I)
+
+### Day 64: April 10, 2021 Saturday
+
+**Today's Progress**: The tutorial used javascript to create the table because of the js library for data tables. Learned also creating a view for datatables. Created an Upsert controlle (Can be an insert or update action). Creating a view for upsert, using ValidationScriptsPartial, and that's all of it...
+
+**Thoughts:** There are so many things I need to learn!!
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=C5cnZ-gZy2I)

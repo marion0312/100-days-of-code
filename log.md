@@ -568,4 +568,4 @@ Using d or hidden classes to specify which screen sizes to display an element.
 
 **Thoughts:** There are so many things I need to learn!!
 
-**Link to work:**  [YouTube](https://www.youtube.com/watch?v=C5cnZ-gZy2I)
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2)

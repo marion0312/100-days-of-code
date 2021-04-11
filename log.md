@@ -569,3 +569,11 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** There are so many things I need to learn!!
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2)
+
+### Day 65: April 11, 2021 Sunday
+
+**Today's Progress**: Restarted the tutorial again using an updated tutorial. Same as the first, explanation of Dependency Injection, project files, create project, create models, create migrations which I had a trouble due to mistake of deleting a migration file, creating a view, looping through a database object.
+
+**Thoughts:** There isn't much a difference to other languages and I am just racking my brain to knowing it all at first.
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2)

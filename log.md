@@ -578,10 +578,18 @@ Using d or hidden classes to specify which screen sizes to display an element.
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2)
 
-### Day 65: April 12, 2021 Monday
+### Day 66: April 12, 2021 Monday
 
 **Today's Progress**: Learned how to display a message if no data is found, the use of tag helper @asp-for => connects to the model and refers to it for the data modelling like DisplayName(), creating a post controller, save changes to database, I also learned how to add css in a cshtml file specific for a view. I want to make it use grid instead of just bootstrap.
 
 **Thoughts:** There isn't much a difference to other languages and I am just racking my brain to knowing it all at first.
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2)
+
+### Day 67: April 13, 2021 Tuesday
+
+**Today's Progress**: I did it! I was able to replicate the tutorial with different parameters and implement grid! Lots to learn still though.
+
+**Thoughts:** I need to retake the grid class. I may have missed something.
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2)

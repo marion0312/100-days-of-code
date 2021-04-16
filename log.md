@@ -601,3 +601,11 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** Be careful in naming functions. They may work but it may be harder to understood because of having the same name with other operations.
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2) [GitHub](https://github.com/marion0312/dotnetcoremvc-freecCodeCamp)
+
+### Day 69: April 16, 2021 Friday
+
+**Today's Progress**: Restarted the project for lap 1. Got into creating a form but stuck in creating a grid for it.
+
+**Thoughts:** I need to research on how to create a grid for forms.
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2) [GitHub](https://github.com/marion0312/dotnetcoremvc-freecCodeCamp)

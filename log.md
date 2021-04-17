@@ -609,3 +609,11 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** I need to research on how to create a grid for forms.
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2) [GitHub](https://github.com/marion0312/dotnetcoremvc-freecCodeCamp)
+
+### Day 70: April 17, 2021 Saturday
+
+**Today's Progress**: Finished lap 1. I thought I can use ternary operator for returning a view, turns out, I can't.
+
+**Thoughts:** I am more concerned on learning grid. I hope I am right with going that track.
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2) [GitHub](https://github.com/marion0312/dotnetcoremvc-freecCodeCamp)

@@ -617,3 +617,11 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** I am more concerned on learning grid. I hope I am right with going that track.
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2) [GitHub](https://github.com/marion0312/dotnetcoremvc-freecCodeCamp)
+
+### Day 70: April 18, 2021 Sunday
+
+**Today's Progress**: Finished lap 2 with 12 mins left. 
+
+**Thoughts:** It still weirds me out why it wasn't changed from HttpPost to HttpPatch or HttpDestroy when operation changed. What difference does it make?
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2) [GitHub](https://github.com/marion0312/dotnetcoremvc-freecCodeCamp)

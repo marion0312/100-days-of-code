@@ -625,3 +625,11 @@ Using d or hidden classes to specify which screen sizes to display an element.
 **Thoughts:** It still weirds me out why it wasn't changed from HttpPost to HttpPatch or HttpDestroy when operation changed. What difference does it make?
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2) [GitHub](https://github.com/marion0312/dotnetcoremvc-freecCodeCamp)
+
+### Day 70: April 19, 2021 Monday
+
+**Today's Progress**: Learned grid-template-columns, grid-auto-rows, grid-template-rows. 
+
+**Thoughts:** I feel under the weather due to lack of sleep.
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=9zBsdzdE4sM&ab_channel=WebDevSimplified)

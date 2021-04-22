@@ -618,7 +618,7 @@ Using d or hidden classes to specify which screen sizes to display an element.
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2) [GitHub](https://github.com/marion0312/dotnetcoremvc-freecCodeCamp)
 
-### Day 70: April 18, 2021 Sunday
+### Day 71: April 18, 2021 Sunday
 
 **Today's Progress**: Finished lap 2 with 12 mins left. 
 
@@ -626,10 +626,23 @@ Using d or hidden classes to specify which screen sizes to display an element.
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=Pi46L7UYP8I&list=WL&index=2) [GitHub](https://github.com/marion0312/dotnetcoremvc-freecCodeCamp)
 
-### Day 70: April 19, 2021 Monday
+### Day 72: April 19, 2021 Monday
 
 **Today's Progress**: Learned grid-template-columns, grid-auto-rows, grid-template-rows. 
 
 **Thoughts:** I feel under the weather due to lack of sleep.
+
+**Link to work:**  [YouTube](https://www.youtube.com/watch?v=9zBsdzdE4sM&ab_channel=WebDevSimplified)
+
+
+### Day 73: April 22, 2021 Thursday
+
+**Today's Progress**: Using grid-auto-rows with minmax value to create grids with minimum height value of minmax( Xpx, auto) that expands on content but also has min height.
+Use grid-row-gap to create spacing on rows and grid-column-gap for columns. Use grid-gap for both. Use grid-template-areas and grid-aread for naming grids. 
+
+Use grid-column-start and end to do the same. Grids are span, so 1/2 will only cover 1 block. 1/3 will cover up to 2 blocks. Using -1 as end value will span towards the end of the grid. Grid-column is the shorthand for this. 
+
+
+**Thoughts:** I skipped 3 days???? Tomorrow will be aligning items in grid.
 
 **Link to work:**  [YouTube](https://www.youtube.com/watch?v=9zBsdzdE4sM&ab_channel=WebDevSimplified)
